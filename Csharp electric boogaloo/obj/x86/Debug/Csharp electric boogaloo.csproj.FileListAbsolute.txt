@@ -1,0 +1,8 @@
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\bin\Debug\Csharp electric boogaloo.exe
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\bin\Debug\Csharp electric boogaloo.pdb
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp_electric_boogaloo.Properties.Resources.resources
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp electric boogaloo.csproj.GenerateResource.Cache
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp electric boogaloo.exe
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp electric boogaloo.pdb
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp electric boogaloo.csprojResolveAssemblyReference.cache
+P:\Programming 3\Boogaloo\Csharp electric boogaloo\Csharp electric boogaloo\obj\x86\Debug\Csharp_electric_boogaloo.FormWeb.resources
